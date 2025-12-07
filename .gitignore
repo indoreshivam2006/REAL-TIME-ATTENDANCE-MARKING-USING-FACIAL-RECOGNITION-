@@ -167,3 +167,10 @@ Desktop.ini
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# ============================================================================
+# Markdown File
+# ============================================================================
+RAILWAY_NETLIFY_DEPLOYMENT.md
+DEPLOYMENT_QUICK_REFERENCE.md
